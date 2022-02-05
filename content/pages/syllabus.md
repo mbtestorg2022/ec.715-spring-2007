@@ -61,12 +61,71 @@ Assignments that are submitted on time will be assigned a letter grade ranging f
 
 Assignment weights will be determined collaboratively by the end of the 3rd Week of class, with the only qualification being that the two most heavily weighted assignments must not exceed 45% of the total course grade. (Preliminary weighting shown)
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 30% |
-| Case study tutorial | 15% |
-| On-line discussion board | 15% |
-| {{< h 3 >}}Team project proposal/plan/presentation{{< /h >}} {{< br >}}{{< br >}} IDEAS proposal {{< br >}}{{< br >}} Executive summary/ies for $100K, Ignite, Deshpande, other (optional but encouraged for teams of multiple classmates) {{< br >}}{{< br >}} IDEAs poster and other display for IDEAs judging session {{< br >}}{{< br >}} Pitch {{< br >}}{{< br >}} Final Microsoft® PowerPoint® presentation {{< br >}}{{< br >}}  | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case study tutorial
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+On-line discussion board
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Team project proposal/plan/presentation
+
+IDEAS proposal
+
+Executive summary/ies for $100K, Ignite, Deshpande, other (optional but encouraged for teams of multiple classmates)
+
+IDEAs poster and other display for IDEAs judging session
+
+Pitch
+
+Final Microsoft® PowerPoint® presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Participation
 
