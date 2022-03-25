@@ -264,7 +264,7 @@ Case study — rural energy in developing countries (Zehra Ali)
 {{< tdopen >}}
 
 
-Reddy, Amulya K. N. "Energy Technologies and Policies for Rural Development." Chapter 4 in _Energy for Sustainable Development: A Policy Agenda_. Edited by Thomas B. Johansson, Jose Goldemberg. New York, NY: UNDP, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.amulya-reddy.org.in/Publication/1999_12_ET&PSRD01222002.pdf))
+Reddy, Amulya K. N. "Energy Technologies and Policies for Rural Development." Chapter 4 in _Energy for Sustainable Development: A Policy Agenda_. Edited by Thomas B. Johansson, Jose Goldemberg. New York, NY: UNDP, 2002. ([PDF](http://www.amulya-reddy.org.in/Publication/1999_12_ET&PSRD01222002.pdf))
 
 Richards, Peter. "[Renewable Development: New Strategies in Rural Electrification](http://www.renewableenergyworld.com/rea/magazine/reworld?Section=ARCHI&ARTICLE_ID=271584&VERSION_NUM=2&p=121%25203)."
 
@@ -327,11 +327,11 @@ Case study — total sanitation (Ibrahim Kanan)
 {{< tdopen >}}
 
 
-"Making Sanitation Work." _Jal Manthan_ 7 (Rural Think Tank), (December 2002). The Water and Sanitation Program (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/08/20/000090341_20030820141923/Rendered/PDF/265360PAPER0WSP0Jal0manthan0no.07.pdf))
+"Making Sanitation Work." _Jal Manthan_ 7 (Rural Think Tank), (December 2002). The Water and Sanitation Program ([PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/08/20/000090341_20030820141923/Rendered/PDF/265360PAPER0WSP0Jal0manthan0no.07.pdf))
 
 Kar, Kamal. "Practical Guide to Triggering Community-Led Total Sanitation." Institute of Development Studies, 2005. ([PDF]({{< baseurl >}}/resources/mitec_715s07_total_sanita)) (Courtesy of Institute of Development Studies. Used with permission.)
 
-"Igniting Change: Tackling the Sanitation Challenge." _Jal Manthan_ 5 (Rural Think Tank) (April 2002). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/07/26/000094946_03071603091561/Rendered/PDF/multi0page.pdf))
+"Igniting Change: Tackling the Sanitation Challenge." _Jal Manthan_ 5 (Rural Think Tank) (April 2002). ([PDF](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/07/26/000094946_03071603091561/Rendered/PDF/multi0page.pdf))
 
 
 {{< tdclose >}}
@@ -359,7 +359,7 @@ Case study — human waste reuse (Xavier Gonzalez)
 {{< tdopen >}}
 
 
-Reed, Bob, and Rod Shaw. "Using Human Waste." _Technical Brief_ 63. Water and Environmental Health at London and Loughborough (WELL). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/63-using-human-waste.pdf))
+Reed, Bob, and Rod Shaw. "Using Human Waste." _Technical Brief_ 63. Water and Environmental Health at London and Loughborough (WELL). ([PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/63-using-human-waste.pdf))
 
 Adam, David. "Human Waste Used to Create Green Fuel." _The Guardian_, November 29, 2006.
 
