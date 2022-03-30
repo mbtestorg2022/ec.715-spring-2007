@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding innovat
   drinking water treatment technology.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/958f70e414c2c77e44ec5955e0dc38c4_MITEC_715S07_arsenic.pdf
 file_type: application/pdf
+parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 resourcetype: Document
 title: Innovative Drinking Water Treatment Technology for Bangladesh, West Bengal,
   and Nepal

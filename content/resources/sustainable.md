@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 resourcetype: Image
 title: sustainable.jpg
 uid: 3f965baf-c9c7-d6e0-8c11-cd433b5e15a4

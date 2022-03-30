@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 resourcetype: Image
 title: learntb.jpg
 uid: a53c546c-33e0-ddc4-5101-333ea1fa9ee7

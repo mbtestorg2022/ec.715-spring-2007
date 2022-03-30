@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding final r
   draft.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007/57c0e5d9bbeebd982101772fe418a745_MITEC_715S07_igniting.pdf
 file_type: application/pdf
+parent_uid: eab3e808-fb7b-450e-f133-e1ac6dae6f05
 resourcetype: Document
 title: Final Report Draft V7.
 uid: 57c0e5d9-bbee-bd98-2101-772fe418a745

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 resourcetype: Image
 title: vac_cast.jpg
 uid: 9fe26848-2d70-d780-61c5-25c8643c4142

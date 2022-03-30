@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 resourcetype: Image
 title: datahealth.jpg
 uid: 1adf809d-f444-6520-61f3-f100dddfcf4f

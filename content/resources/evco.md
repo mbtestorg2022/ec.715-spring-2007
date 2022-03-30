@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f30134a6-94a0-de04-36a4-d3f145229b1a
 resourcetype: Image
 title: evco.jpg
 uid: c4637c2c-fc7d-6750-d518-a9010b46debc
